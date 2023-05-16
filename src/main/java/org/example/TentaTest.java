@@ -3,7 +3,6 @@ package org.example;
 import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.*;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 public class TentaTest {
     private Tenta tenta;
